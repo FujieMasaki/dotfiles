@@ -1,0 +1,12 @@
+[user]
+  name = masakifujie
+  email = yan.yan.yan@icloud.com
+[alias]
+  co = checkout
+  fe = fetch
+  st = status
+  ci = commit -a -v
+  br = branch
+
+  [github]
+	user = masakifujie

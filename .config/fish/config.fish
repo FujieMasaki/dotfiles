@@ -7,3 +7,4 @@ tmux
 # vi mode
 fish_vi_key_bindings
 bind p fish_clipboard_paste
+balias g git
